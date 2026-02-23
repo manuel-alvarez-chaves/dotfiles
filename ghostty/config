@@ -48,4 +48,23 @@
 # # Just for example:
 # resize-overlay-duration = 4s 200ms
 
+# Font
 font-family = "JetBrainsMonoNL Nerd Font Mono"
+font-size = 14
+
+# Window
+window-width = 150
+window-height = 40
+
+# Positioning
+window-save-state = "default"
+
+# Aesthetics
+background-opacity = 0.95
+background-blur-radius = 20
+window-padding-x = 12
+window-padding-y = 12
+
+# Cursor
+cursor-style = block
+cursor-style-blink = false
