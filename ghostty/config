@@ -48,6 +48,9 @@
 # # Just for example:
 # resize-overlay-duration = 4s 200ms
 
+# Theme
+theme = Night Owl
+
 # Font
 font-family = "JetBrainsMonoNL Nerd Font Mono"
 font-size = 14

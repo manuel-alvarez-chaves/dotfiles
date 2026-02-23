@@ -1,0 +1,26 @@
+add_newline = false
+
+# Colors based on Night Owl
+
+[character]
+success_symbol = "[󰄾](bold #82AAFF) "
+error_symbol = "[󰄾](bold #FF2C83) "
+
+[directory]
+style = "bold #7FDBCA"
+truncation_symbol = "󱞩 "
+truncation_length = 3
+
+[git_branch]
+symbol = " "
+style = "bold #C792EA"
+
+[git_status]
+style = "bold #FF6363"
+
+[package]
+disabled = true
+
+[python]
+symbol = " "
+style = "bold #ECC48D"
